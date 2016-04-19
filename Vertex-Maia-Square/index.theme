@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Vertex-Maia
 MetacityTheme=Vertex-Maia
-IconTheme=maia
-CursorTheme=Menda
+IconTheme=Vertex-Maia
+CursorTheme=Maia
 ButtonLayout=menu:minimize,maximize,close
